@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS adlister_db;
+CREATE DATABASE IF NOT EXISTS flowergarden_db;
 
-CREATE USER adlister_user@localhost IDENTIFIED BY 'p@$$w0rd';
-GRANT ALL ON adlister_db.* TO adlister_user@localhost;
+CREATE USER flowergarden_user@localhost IDENTIFIED BY 'p@$$w0rd';
+GRANT ALL ON flowergarden_db.* TO flowergarden_user@localhost;
