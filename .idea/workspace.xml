@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="197c5c47-60cb-4fda-b2fe-ef40f4776c54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/AppNavbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/ClientEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/ClientList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/garden/FlowerGardenJavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/garden/FlowerGardenJavaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="197c5c47-60cb-4fda-b2fe-ef40f4776c54" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +77,7 @@
       <workItem from="1653934830040" duration="9995000" />
       <workItem from="1653954662382" duration="5854000" />
       <workItem from="1654027068925" duration="3635000" />
+      <workItem from="1654052898415" duration="294000" />
     </task>
     <servers />
   </component>
