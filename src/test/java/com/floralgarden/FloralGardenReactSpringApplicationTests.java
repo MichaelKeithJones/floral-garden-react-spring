@@ -1,0 +1,13 @@
+package com.floralgarden;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FloralGardenReactSpringApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

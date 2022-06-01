@@ -48,7 +48,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.FloralGardenReactSpringApplication">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="flower-garden-java" />
       <method v="2">
@@ -58,6 +58,13 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="flower-garden-java" />
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloralGardenReactSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="floral-garden-react-spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.floralgarden.FloralGardenReactSpringApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
